@@ -6,7 +6,7 @@
    1. SETTINGS — edit these two lines for your business
    ----------------------------------------------------------- */
 const WHATSAPP_NUMBER = "919783229940"; // country code + number, no + or spaces
-const STORE_NAME = "Ravi Tumbler";
+const STORE_NAME = "Riya Tumbler";
 
 /* -----------------------------------------------------------
    2. PRODUCT DATA
